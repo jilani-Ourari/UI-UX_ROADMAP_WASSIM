@@ -1,9 +1,3 @@
-# UIUX-Squad-CIS-Team
-**“We are in [CIS](https://www.facebook.com/cisteam15/) help you to start in UI/UX."Craft the future with your design touch!"**
-
-
-![UI/UX](https://github.com/Reem-Elatroush/UIUX-Squad-CIS-Team/assets/149952898/fb250a8b-b35c-42e4-a58b-ced533c7d34a)
-
 ## **▶️What is UI/UX?**
 
 
@@ -405,15 +399,4 @@
 - [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
 - [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
 
-🎉Warmest congratulations on your achievement! Wishing you even more success in the future,**CIS Mentors.**
-
-## **▶️Our Contacts📱**
-
-<a href="https://www.facebook.com/reem.elatroush"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/reem-elatroush/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/momenalmitwally"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/moamen-el-sayed-28263224b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/profile.php?id=100003821826674"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nouran-elkhouly-507b94255/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+🎉Warmest congratulations on your achievement!.
